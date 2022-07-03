@@ -16,7 +16,7 @@ A simple website where payment gateway is integrated.
 
 **Languages Used:** HTML, CSS, BOOTSTRAP, JAVASCRIPT
 
-**Payement:** RazorPay
+**Payment:** RazorPay
 
 ## 🔗 Links
 
